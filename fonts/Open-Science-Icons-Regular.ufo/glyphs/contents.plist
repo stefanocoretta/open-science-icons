@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>space</key>
+	<string>space.glif</string>
+	<key>uniE900</key>
+	<string>uniE_900.glif</string>
+	<key>uniE901</key>
+	<string>uniE_901.glif</string>
+	<key>uniE902</key>
+	<string>uniE_902.glif</string>
+	<key>uniE903</key>
+	<string>uniE_903.glif</string>
+	<key>uniE904</key>
+	<string>uniE_904.glif</string>
+	<key>uniE905</key>
+	<string>uniE_905.glif</string>
+	<key>uniE906</key>
+	<string>uniE_906.glif</string>
+	<key>uniE907</key>
+	<string>uniE_907.glif</string>
+	<key>uniE908</key>
+	<string>uniE_908.glif</string>
+	<key>uniE909</key>
+	<string>uniE_909.glif</string>
+	<key>uniE90A</key>
+	<string>uniE_90A_.glif</string>
+	<key>uniE90B</key>
+	<string>uniE_90B_.glif</string>
+	<key>uniE90C</key>
+	<string>uniE_90C_.glif</string>
+	<key>uniE90D</key>
+	<string>uniE_90D_.glif</string>
+	<key>uniE90E</key>
+	<string>uniE_90E_.glif</string>
+	<key>uniE90F</key>
+	<string>uniE_90F_.glif</string>
+	<key>uniE910</key>
+	<string>uniE_910.glif</string>
+</dict>
+</plist>
