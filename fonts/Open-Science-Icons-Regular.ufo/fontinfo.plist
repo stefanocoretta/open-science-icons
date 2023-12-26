@@ -5,15 +5,17 @@
 	<key>ascender</key>
 	<integer>800</integer>
 	<key>capHeight</key>
-	<integer>-2147483648</integer>
+	<integer>2147483647</integer>
 	<key>descender</key>
 	<integer>-200</integer>
 	<key>familyName</key>
 	<string>Open Science Icons</string>
 	<key>openTypeHeadCreated</key>
-	<string>2021/04/23 20:39:54</string>
+	<string>2023/12/26 09:09:23</string>
 	<key>openTypeNameDesigner</key>
 	<string>Stefano Coretta</string>
+	<key>openTypeNameDesignerURL</key>
+	<string>https://stefanocoretta.github.io</string>
 	<key>postscriptBlueValues</key>
 	<array>
 		<real>-16.0</real>
@@ -35,8 +37,8 @@
 	<key>versionMajor</key>
 	<integer>1</integer>
 	<key>versionMinor</key>
-	<integer>0</integer>
+	<integer>1</integer>
 	<key>xHeight</key>
-	<integer>-2147483648</integer>
+	<integer>2147483647</integer>
 </dict>
 </plist>

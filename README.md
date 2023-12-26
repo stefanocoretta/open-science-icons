@@ -23,3 +23,4 @@ You can see the icons in action [here](https://stefanocoretta.github.io/output/)
 - **Pu**: published manuscript, manuscript with journal formatting.
 - **C**: research compendium.
 - **R**: pre-registration.
+- **RR**: Registered Report.
